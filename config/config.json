@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "SA",
+    "password": "ars07080708",
+    "database": "tours",
+    "host": "localhost",
+    "dialect": "mssql",
+    "operatorsAliases": false
+  }
+}
